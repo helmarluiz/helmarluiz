@@ -6,6 +6,4 @@
 
 ### Find me elsewhere 🌎
 
-💼  [LinkedIn](https://www.linkedin.com/in/helmarjunior) <br>
-💻  [StackOverflow](https://stackoverflow.com/cv/helmarjunior) <br>
-📝  [Tech Blog](https://dev.to/helmarjunior)
+💼  [LinkedIn](https://www.linkedin.com/in/helmarluiz) <br> 
